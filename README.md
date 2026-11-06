@@ -21,18 +21,18 @@ up. It's free, it's live, and it's still actively growing.
 
 ## Features
 
-- 💬 **Groups & channels** — organize communities the way you want
-- 📩 **Direct messages** — private 1-on-1 conversations
-- 🎙️ **Voice chat** — talk, not just type
-- 👤 **Profiles** — bio, custom status, avatar and banner
-- 🟢 **Presence** — see who's online in real time
-- 🚫 **Blocking & moderation basics** — block anyone who's bothering you
-- 📎 **Clips & file sharing** — share more than just text
+- 💬 **Groups & channels**: organize communities the way you want
+- 📩 **Direct messages**: private 1-on-1 conversations
+- 🎙️ **Voice chat**: talk, not just type
+- 👤 **Profiles**: bio, custom status, avatar and banner
+- 🟢 **Presence**: see who's online in real time
+- 🚫 **Blocking & moderation basics**: block anyone who's bothering you
+- 📎 **Clips & file sharing**: share more than just text
 
 ## Why I built this
 
-I wanted to learn how a real-time chat platform works end-to-end — auth, sockets, presence,
-voice, the whole stack — and the best way to learn that is to actually ship something people use.
+I wanted to learn how a real-time chat platform works end-to-end, auth, sockets, presence,
+voice, the whole stack, and the best way to learn that is to actually ship something people use.
 Dislite is the result: a working, free, continuously-improving chat app built and maintained by
 one person.
 
